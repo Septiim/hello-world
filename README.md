@@ -1,2 +1,4 @@
 # hello-world
-New here
+I've just arrived here
+I like programming and memes
+And haikus as well
